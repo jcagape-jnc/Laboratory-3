@@ -48,6 +48,6 @@ Overall, this task helped me better understand how design choices affect how mes
 
 ---
 
-## 📁 Project Structure
+
 
 
